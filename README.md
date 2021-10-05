@@ -6,3 +6,4 @@ e.g. Entering d2 and then d4 will move your piece up two spaces.
 B = Black | W = White
 p = Pawn | R = Rook | N = Knight | B = Bishop | Q = Queen | K = King
 [] indicates a black tile
+The computer opponent decides moves with a Minimax algorithm.
